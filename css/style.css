@@ -1463,11 +1463,10 @@ button.preorder {
 }
 
 @media (max-width: 767px) {
-  .header-img {
-    display:none;
-    visibility: hidden;
-  }
  
+ .header-img .circle {
+    display:none;
+  }
   .header-text h1 {
     font-size: 30px;
     text-align: center;
