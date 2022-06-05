@@ -1464,12 +1464,10 @@ button.preorder {
 
 @media (max-width: 767px) {
   .header-img {
-    margin-bottom: 300px;
-    margin-right: 0;
+display:none;
+  
   }
-  .header-img img {
-    max-width: 280px;
-  }
+ 
   .header-text h1 {
     font-size: 30px;
     text-align: center;
