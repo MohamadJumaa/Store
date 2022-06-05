@@ -1464,8 +1464,8 @@ button.preorder {
 
 @media (max-width: 767px) {
   .header-img {
-display:none;
-  
+    display:none;
+    visibility: hidden;
   }
  
   .header-text h1 {
