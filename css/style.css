@@ -1467,6 +1467,9 @@ button.preorder {
  .header-img .circle {
     display:none;
   }
+.header-img img {
+display:none;
+}
   .header-text h1 {
     font-size: 30px;
     text-align: center;
